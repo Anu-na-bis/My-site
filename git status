@@ -1,0 +1,23 @@
+[33mcommit 86d452da94847c4d513a9677a94ad5d35fc35f12[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Andrey <Anunabis@gmail.com>
+Date:   Mon Oct 28 19:58:06 2024 +0500
+
+    Реализован скрипт приветственного сообщения пользователю
+
+[33mcommit 294da3169c3c0e46c18106123864a06c4d9398f3[m
+Author: Andrey <Anunabis@gmail.com>
+Date:   Mon Oct 28 19:52:57 2024 +0500
+
+    Сверстан основной блок сайта
+
+[33mcommit c922929956e70aaf93de5a61913ef94dbf577fd3[m
+Author: Andrey <Anunabis@gmail.com>
+Date:   Mon Oct 28 19:39:22 2024 +0500
+
+    Сверстана шапка сайта
+
+[33mcommit 2b58b2d5b03b2da41a798ea273b62dee87fbe9e7[m
+Author: Andrey <Anunabis@gmail.com>
+Date:   Mon Oct 28 19:30:29 2024 +0500
+
+    Создан шаблон с базовыми настройками проекта
